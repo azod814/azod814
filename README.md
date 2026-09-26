@@ -59,20 +59,19 @@
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" />
+  <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/windows" alt="Windows" width="40" />
 </p>
 
 <h3 align="center">Cybersecurity Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/burpsuite/burpsuite-icon.svg" alt="Burp Suite" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/nmap/nmap/master/docs/nmap-logo.svg" alt="Nmap" width="40" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/bettercap/bettercap/master/docs/bettercap.svg" alt="Bettercap" width="40" />
+  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bettercap" alt="Bettercap" width="40" />
 </p>
 
 <h3 align="center">Tools</h3>
