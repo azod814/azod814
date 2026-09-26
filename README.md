@@ -23,11 +23,13 @@
 - Open Source Projects
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Status
+
 <p align="center">
   <a href="https://github.com/azod814">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azod814&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="azod814's GitHub Stats" />
   </a>
+
   <img src="https://streak-stats.demolab.com/?user=azod814&theme=dark&hide_border=true&cache_seconds=86400" alt="azod814's GitHub Streak" width="49%" />
 </p>
 
@@ -70,8 +72,8 @@
   <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bettercap" alt="Bettercap" width="40" />
+  <img src="https://nmap.org/images/nmap-logo-64px.svg" alt="Nmap" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/bettercap.png?size=128" alt="Bettercap" width="40" />
 </p>
 
 <h3 align="center">Tools</h3>
@@ -88,6 +90,7 @@
 </p>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/suryansh-sharma-b5550a395/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -107,6 +110,12 @@
 
   <a href="https://suryansh-portfoilio.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="YOUR-SUPPORT-PAGE-URL">
+    <img src="https://img.shields.io/badge/☕%20Support%20My%20Work-a371f7?style=for-the-badge&logo=github&logoColor=white" alt="Support My Work" />
   </a>
 </p>
 
